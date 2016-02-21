@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreLocator", "WcfService3\StoreLocator.csproj", "{DE64BD41-A369-4A38-A033-27E319B9897F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreLocatorTryIt", "WebApplication2\StoreLocatorTryIt.csproj", "{D88F625A-C2DD-4077-A365-EBD5FD1C83AA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DE64BD41-A369-4A38-A033-27E319B9897F} = {DE64BD41-A369-4A38-A033-27E319B9897F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE64BD41-A369-4A38-A033-27E319B9897F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE64BD41-A369-4A38-A033-27E319B9897F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE64BD41-A369-4A38-A033-27E319B9897F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE64BD41-A369-4A38-A033-27E319B9897F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88F625A-C2DD-4077-A365-EBD5FD1C83AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88F625A-C2DD-4077-A365-EBD5FD1C83AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88F625A-C2DD-4077-A365-EBD5FD1C83AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88F625A-C2DD-4077-A365-EBD5FD1C83AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

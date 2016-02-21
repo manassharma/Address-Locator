@@ -1,0 +1,6 @@
+c:\users\manas\documents\visual studio 2013\Projects\WcfService3\WebApplication2\bin\WebApplication2.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\WcfService3\WebApplication2\bin\WebApplication2.dll
+c:\users\manas\documents\visual studio 2013\Projects\WcfService3\WebApplication2\bin\WebApplication2.pdb
+c:\users\manas\documents\visual studio 2013\Projects\WcfService3\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\WcfService3\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\manas\documents\visual studio 2013\Projects\WcfService3\WebApplication2\obj\Debug\WebApplication2.pdb

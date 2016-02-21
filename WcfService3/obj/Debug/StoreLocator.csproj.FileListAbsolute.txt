@@ -1,0 +1,6 @@
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WcfService3\bin\WcfService3.dll.config
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WcfService3\bin\WcfService3.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WcfService3\bin\WcfService3.pdb
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WcfService3\obj\Debug\StoreLocator.csprojResolveAssemblyReference.cache
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WcfService3\obj\Debug\WcfService3.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WcfService3\obj\Debug\WcfService3.pdb

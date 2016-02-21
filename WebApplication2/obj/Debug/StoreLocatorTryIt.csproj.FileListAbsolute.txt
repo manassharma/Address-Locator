@@ -1,0 +1,12 @@
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WebApplication2\bin\WebApplication2.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WebApplication2\obj\Debug\StoreLocatorTryIt.csprojResolveAssemblyReference.cache
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\StoreLocator\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Manas\Desktop\StoreLocator\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Manas\Desktop\StoreLocator\WebApplication2\bin\WebApplication2.dll
+C:\Users\Manas\Desktop\StoreLocator\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Manas\Desktop\StoreLocator\WebApplication2\obj\Debug\StoreLocatorTryIt.csprojResolveAssemblyReference.cache
+C:\Users\Manas\Desktop\StoreLocator\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Manas\Desktop\StoreLocator\WebApplication2\obj\Debug\WebApplication2.pdb
